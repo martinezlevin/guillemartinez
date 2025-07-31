@@ -2,8 +2,6 @@
 
 Sitio web estático de portafolio personal con presentación de proyectos, secciones informativas y formulario de contacto, desarrollado con HTML, CSS, JavaScript y Bootstrap 5.
 
----
-
 ## 🛠 Tecnologías utilizadas
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
@@ -19,8 +17,6 @@ Sitio web estático de portafolio personal con presentación de proyectos, secci
   - Imágenes GIF
   - Videos MP4
 
----
-
 ## ✨ Características principales
 
 - 🎨 Diseño limpio, moderno y responsive para desktop y dispositivos móviles.
@@ -31,8 +27,6 @@ Sitio web estático de portafolio personal con presentación de proyectos, secci
 - ⚙️ Integración con librerías externas para mejorar la experiencia UX.
 - 📄 Archivos estáticos fáciles de desplegar en cualquier hosting (Netlify, GitHub Pages, etc).
 - 🔍 SEO básico configurado con meta tags y optimización de imágenes.
-
----
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -49,8 +43,11 @@ Sitio web estático de portafolio personal con presentación de proyectos, secci
 ```bash
 git clone https://github.com/martinezlevin/GM.git
 cd GM
-``` 
 
+``` 
+## Estructura del proyecto
+
+```plaintext
 GM
 ├── assets
 │   ├── css
@@ -84,8 +81,8 @@ GM
 │   ├── index.html
 ├── index.html
 ├── LICENSE.txt
-└── Readme.md
----
+└── README.md
+
 
 📄 Licencia
 
