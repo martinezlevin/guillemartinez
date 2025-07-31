@@ -55,6 +55,9 @@ GM
 ├── assets
 │   ├── css
 │   │   └── main.css
+│   ├── docs
+│   │   ├── Curriculum Vitae Guillermo Martinez 2025 EN.pdf
+│   │   └── Curriculum Vitae Guillermo Martinez 2025.pdf
 │   ├── img
 │   │   ├── clients/
 │   │   ├── masonry-portfolio/
@@ -79,16 +82,9 @@ GM
 │   └── swiper/
 ├── en
 │   ├── index.html
-├── forms
-│   ├── contact.php
-│   ├── newsletter.php
-│   └── Readme.txt
 ├── index.html
-├── portfolio-details.html
-├── Readme.md
-├── service-details.html
-└── starter-page.html
-
+├── LICENSE.txt
+└── Readme.md
 ---
 
 📄 Licencia
