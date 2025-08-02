@@ -1194,7 +1194,7 @@ section,
 }
 
 .checkbox-wrapper-35 .switch + label::before {
-  background-color: #05012c;
+  background-color: #242424;
   border-radius: 500px;
   height: 15px;
   margin-right: 8px;
@@ -1261,7 +1261,7 @@ section,
 }
 
 .checkbox-wrapper-35 .switch:checked + label::before {
-  background-color: #ffb500;
+  background-color: #FFC451;
 }
 
 .checkbox-wrapper-35 .switch:checked + label::after {
@@ -2148,21 +2148,17 @@ section,
 }
 
 
-
-
-
-
-
-
-
-
 #resume {
   display: none; /* Oculto por defecto */
 }
 
 
-
-
+#about::before {
+  content: "";
+  display: block;
+  height: 100px;      /* altura del navbar */
+  margin-top: -100px; /* mismo valor en negativo */
+}
 
 
 .glitchbox {
@@ -2503,3 +2499,5 @@ section,
   transform: none !important;
   left: 0 !important;
 }
+
+
