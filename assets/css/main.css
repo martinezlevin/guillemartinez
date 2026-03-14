@@ -941,7 +941,7 @@ section,
   left: 0;
   width: 100%;
   height: 20%; /* Aumentá si querés que el gradiente sea más notorio */
-  background: linear-gradient(to top, rgb(0, 0, 0), transparent);
+  background: linear-gradient(to top, #060606, transparent);
   pointer-events: none;
   z-index: 4;
 }
